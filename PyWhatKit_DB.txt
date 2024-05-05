@@ -1,0 +1,25 @@
+Date: 29/2/2024
+Time: 14:7
+Phone Number: +918780928112
+Message: hyy skc
+--------------------
+Date: 29/2/2024
+Time: 14:10
+Phone Number: +918780928112
+Message: hyy
+--------------------
+Date: 29/2/2024
+Time: 14:16
+Phone Number: +918780928112
+Message: hi how are you
+--------------------
+Date: 29/2/2024
+Time: 14:37
+Phone Number: +918780928112
+Message: None
+--------------------
+Date: 29/2/2024
+Time: 14:40
+Phone Number: +918780928112
+Message: This is an automated message sent using pywhatkit.
+--------------------
